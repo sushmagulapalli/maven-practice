@@ -3,8 +3,8 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="D:/code-repos/maven-project">
         <classes>
-            <class name="testngsample2"/>
-            <class name="testngsample3"/>
+            <class name="io.learn.testngsample2"/>
+            <class name="io.learn.testngsample3"/>
 
 
         </classes>

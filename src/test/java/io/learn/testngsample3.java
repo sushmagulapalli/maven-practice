@@ -1,3 +1,5 @@
+package io.learn;
+
 import org.testng.annotations.Test;
 
 public class testngsample3 {
