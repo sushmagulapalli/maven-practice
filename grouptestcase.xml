@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="grouping">
+        <groups>
+            <run>
+                <include name= "production"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="io.learn.HomeTasks.GroupsTests">
+            </class>
+        </classes>
+    </test>
+</suite>
